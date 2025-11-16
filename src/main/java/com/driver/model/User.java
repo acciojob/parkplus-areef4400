@@ -1,6 +1,5 @@
 package com.driver.model;
 
-import jdk.jfr.DataAmount;
 import lombok.Data;
 
 import javax.persistence.*;
